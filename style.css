@@ -1,11 +1,18 @@
 body{
 background-color: aquamarine;
 text-align: center;
-padding: 16px ;
+padding: 16px;
 }
-header{
+
+header {
 background-color: blueviolet;
 }
-section{
+
+section {
 background-color: white;
+}
+.conteudo-site{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
 }
